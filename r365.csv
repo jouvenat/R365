@@ -1,0 +1,359 @@
+﻿Record Id,Commissary Item,Item Type,ID,Available,Category,Inventory Unit Of Measure,Selling Unit Of Measure,Order Guides,Cost,Markup,Selling Price,Source Item,Sales Account,Taxable
+505,BREAD O&F Rosemary Garlic Loaf,Recipe,,TRUE,Prepped Food,Loaf,Loaf,PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,2.1116,50,3.17,BREAD O&F Rosemary Garlic Loaf,4100 - Food Sales,FALSE
+305,BTLD JUICE Antioxidants Wellness Shot (Bottle),Purchase,,TRUE,Bottled Juice,Bottle (2 Oz-fl),Case - 15/Bottle (2 Oz-fl),"PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***, PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",33.75,42.75,42.75,BTLD JUICE Antioxidants Wellness Shot (Bottle),4134 - Bottled Juice Sales,FALSE
+304,BTLD JUICE Classic Green (Bottle),Purchase,,TRUE,Bottled Juice,Bottle (12 Oz-fl),Case - 9/Bottle (12 Oz-fl),"PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***, PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",31.05,36,36,BTLD JUICE Classic Green (Bottle),4134 - Bottled Juice Sales,FALSE
+303,BTLD JUICE Clean Carbon (Bottle),Purchase,,TRUE,Bottled Juice,Bottle (12 Oz-fl),Case - 9/Bottle (12 Oz-fl),"PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***, PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",31.05,36,36,BTLD JUICE Clean Carbon (Bottle),4134 - Bottled Juice Sales,FALSE
+302,BTLD JUICE Deeply Rooted (Bottle),Purchase,,TRUE,Bottled Juice,Bottle (12 Oz-fl),Case - 9/Bottle (12 Oz-fl),"PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***, PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",31.05,36,36,BTLD JUICE Deeply Rooted (Bottle),4134 - Bottled Juice Sales,FALSE
+301,BTLD JUICE Immunity Boost (Bottle),Purchase,,TRUE,Bottled Juice,Bottle (12 Oz-fl),Case - 9/Bottle (12 Oz-fl),"PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***, PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",31.05,36,36,BTLD JUICE Immunity Boost (Bottle),4134 - Bottled Juice Sales,FALSE
+300,BTLD JUICE Inflammation Wellness Shot (Bottle),Purchase,,TRUE,Bottled Juice,Bottle (2 Oz-fl),Case - 15/Bottle (2 Oz-fl),"PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***, PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",33.75,42.75,42.75,BTLD JUICE Inflammation Wellness Shot (Bottle),4134 - Bottled Juice Sales,FALSE
+299,BTLD JUICE Just Orange (Bottle),Purchase,,TRUE,Bottled Juice,Bottle (12 Oz-fl),Case - 9/Bottle (12 Oz-fl),"PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***, PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",31.05,33.75,33.75,BTLD JUICE Just Orange (Bottle),4134 - Bottled Juice Sales,FALSE
+53,DELIVERY CHARGE Pastry,Purchase,,TRUE,Pastry,Each,Each,"PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***, MNKY ITEMS ***ADMIN USE ONLY***",0,10,10,DELIVERY CHARGE Pastry,4108 - Bakeshop Pastry Sales,FALSE
+498,HOLIDAY Buttermilk Rolls,Recipe,,TRUE,MNKY,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,0,3,3,HOLIDAY Buttermilk Rolls,4106 - Comm Prepped Food Sales,FALSE
+503,HOLIDAY Garlic Mashed Potatoes,Recipe,,TRUE,MNKY,Quart,Quart,MNKY ITEMS ***ADMIN USE ONLY***,0,3,3,HOLIDAY Garlic Mashed Potatoes,4106 - Comm Prepped Food Sales,FALSE
+499,HOLIDAY Green Chili Cornbread,Recipe,,TRUE,MNKY,Quart,Quart,MNKY ITEMS ***ADMIN USE ONLY***,0,3,3,HOLIDAY Green Chili Cornbread,4106 - Comm Prepped Food Sales,FALSE
+494,HOLIDAY Honey Butter,Recipe,,TRUE,MNKY,Cup,Cup,MNKY ITEMS ***ADMIN USE ONLY***,0,2,2,HOLIDAY Honey Butter,4106 - Comm Prepped Food Sales,FALSE
+574,HOLIDAY Hot Chocolate Bomb,Recipe,,TRUE,,Each,Each,,0,0,0,HOLIDAY Hot Chocolate Bomb,4130 - N/A Bev Sales,FALSE
+497,HOLIDAY Mushroom Gravy,Recipe,,TRUE,MNKY,Pint,Pint,MNKY ITEMS ***ADMIN USE ONLY***,0,3,3,HOLIDAY Mushroom Gravy,4106 - Comm Prepped Food Sales,FALSE
+496,HOLIDAY Orange Cranberry Chutney,Recipe,,TRUE,MNKY,Pint,Pint,MNKY ITEMS ***ADMIN USE ONLY***,0,3,3,HOLIDAY Orange Cranberry Chutney,4106 - Comm Prepped Food Sales,FALSE
+501,HOLIDAY Roasted Vegetables,Recipe,,TRUE,MNKY,Quart,Quart,MNKY ITEMS ***ADMIN USE ONLY***,0,2,2,HOLIDAY Roasted Vegetables,4106 - Comm Prepped Food Sales,FALSE
+500,HOLIDAY Sweet Potatoes,Recipe,,TRUE,MNKY,Quart,Quart,MNKY ITEMS ***ADMIN USE ONLY***,0,4,4,HOLIDAY Sweet Potatoes,4106 - Comm Prepped Food Sales,FALSE
+495,HOLIDAY Truffle Butter,Recipe,,TRUE,MNKY,Cup,Cup,MNKY ITEMS ***ADMIN USE ONLY***,0,2,2,HOLIDAY Truffle Butter,4106 - Comm Prepped Food Sales,FALSE
+502,HOLIDAY Truffled Mac & Cheese,Recipe,,TRUE,MNKY,Quart,Quart,MNKY ITEMS ***ADMIN USE ONLY***,0,4,4,HOLIDAY Truffled Mac & Cheese,4106 - Comm Prepped Food Sales,FALSE
+417,MI Banana Walnut Bread,Recipe,,TRUE,Pastry,Each,Loaf,PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,12,50,18,MI Banana Walnut Bread,4108 - Bakeshop Pastry Sales,FALSE
+423,MI Blueberry Scone,Recipe,,TRUE,Pastry,Each,Pack (3 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,1.3428,50,2.01,MI Blueberry Scone,4108 - Bakeshop Pastry Sales,FALSE
+82,MI Bread Zucchini,Recipe,,TRUE,Pastry,Each,Loaf,PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,6.7073,50,10.06,PASTRY Bread Zucchini,4108 - Bakeshop Pastry Sales,FALSE
+408,MI Brownie Righteous,Recipe,,TRUE,Pastry,Each,Pack (12 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,10.6884,50,16.03,MI Brownie Righteous,4108 - Bakeshop Pastry Sales,FALSE
+410,MI Chocolate Peanut Butter Bar,Recipe,,TRUE,Pastry,Each,Pack (12 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,11.4064,50,17.11,MI Chocolate Peanut Butter Bar,4108 - Bakeshop Pastry Sales,FALSE
+414,MI Double Chocolate Cookie,Recipe,,TRUE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,4.5087,50,6.76,MI Double Chocolate Cookie,4108 - Bakeshop Pastry Sales,FALSE
+422,MI Jalapeno Cheddar Scone,Recipe,,TRUE,Pastry,Each,Pack (3 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,2.7999,50,4.2,MI Jalapeno Cheddar Scone,4108 - Bakeshop Pastry Sales,FALSE
+411,MI Lemon Bar,Recipe,,TRUE,Pastry,Each,Pack (12 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,11.5006,50,17.25,MI Lemon Bar,4108 - Bakeshop Pastry Sales,FALSE
+419,MI Lemon Poppyseed Bread,Recipe,,TRUE,Pastry,Each,Loaf,PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,1.9114,50,2.87,MI Lemon Poppyseed Bread,4108 - Bakeshop Pastry Sales,FALSE
+424,MI Oatmeal Jar,Recipe,,TRUE,Retail Food,Each,Pack (6 CT),RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,12.8551,55,19.93,MI Oatmeal Jar,4201 - Retail Food Sales,FALSE
+416,MI Oatmeal Raisin Cookie,Recipe,,TRUE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,4.3464,50,6.52,MI Oatmeal Raisin Cookie,4108 - Bakeshop Pastry Sales,FALSE
+413,MI Peanut Butter Cookie,Recipe,,TRUE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,2.945,50,4.42,MI Peanut Butter Cookie,4108 - Bakeshop Pastry Sales,FALSE
+418,MI Pumpkin Bread,Recipe,,TRUE,Pastry,Each,Loaf,PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,4.7113,50,7.07,MI Pumpkin Bread,4108 - Bakeshop Pastry Sales,FALSE
+425,MI Rosemary Kouign-Amann,Recipe,,TRUE,Pastry,Each,Pack (3 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,2.9733,50,4.46,MI Rosemary Kouign-Amann,4108 - Bakeshop Pastry Sales,FALSE
+412,MI Salted Chocolate Chip Cookie,Recipe,,TRUE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,6.7963,50,10.19,MI Salted Chocolate Chip Cookie,4108 - Bakeshop Pastry Sales,FALSE
+409,MI Sprinkle Doodle Cookie,Recipe,,TRUE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,2.0484,50,3.07,MI Sprinkle Doodle Cookie,4108 - Bakeshop Pastry Sales,FALSE
+415,MI Toffee Butterscotch Cookie,Recipe,,TRUE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,6.5285,50,9.79,MI Toffee Butterscotch Cookie,4108 - Bakeshop Pastry Sales,FALSE
+420,MI Vegan Chocolate Date Bar,Recipe,,TRUE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,14.8671,50,22.3,MI Vegan Chocolate Date Bar,4108 - Bakeshop Pastry Sales,FALSE
+407,MI Vegan Fruit Crumble Bar,Recipe,,TRUE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,8.2573,50,12.39,MI Vegan Fruit Crumble Bar,4108 - Bakeshop Pastry Sales,FALSE
+307,MNKY Bar Tray,Purchase,,TRUE,MNKY,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,30,0,30,MNKY Bar Tray,4100 - Food Sales,FALSE
+323,MNKY Berries On Cake Upcharge,Purchase,,TRUE,MNKY,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,7.5,0,7.5,MNKY Berries On Cake Upcharge,4100 - Food Sales,FALSE
+328,MNKY Brownie Tray,Purchase,,TRUE,MNKY,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,24.5,0,24.5,MNKY Brownie Tray,4100 - Food Sales,FALSE
+327,"MNKY Cake 10""",Purchase,,TRUE,MNKY,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,60,0,60,"MNKY Cake 10""",4100 - Food Sales,FALSE
+326,"MNKY Cake 6""",Purchase,,TRUE,MNKY,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,33.75,0,33.75,"MNKY Cake 6""",4100 - Food Sales,FALSE
+325,"MNKY Cake 8""",Purchase,,TRUE,MNKY,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,41.25,0,41.25,"MNKY Cake 8""",4100 - Food Sales,FALSE
+324,MNKY Chocolate Plaque Upcharge,Purchase,,TRUE,MNKY,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,2.25,0,2.25,MNKY Chocolate Plaque Upcharge,4100 - Food Sales,FALSE
+322,MNKY Coffee Cake,Purchase,,TRUE,MNKY,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,33.75,0,33.75,MNKY Coffee Cake,4100 - Food Sales,FALSE
+318,MNKY Cookie Box (12),Purchase,,TRUE,MNKY,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,13.5,0,13.5,MNKY Cookie Box (12),4100 - Food Sales,FALSE
+321,MNKY Croissant Tray,Purchase,,TRUE,MNKY,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,41.25,0,41.25,MNKY Croissant Tray,4100 - Food Sales,FALSE
+320,MNKY Cupcakes (12),Purchase,,TRUE,MNKY,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,40.5,0,40.5,MNKY Cupcakes (12),4100 - Food Sales,FALSE
+319,MNKY Cupcakes (24),Purchase,,TRUE,MNKY,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,76.5,0,76.5,MNKY Cupcakes (24),4100 - Food Sales,FALSE
+317,MNKY GF/VEGAN Cake Upcharge,Purchase,,TRUE,MNKY,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,7.5,0,7.5,MNKY GF/VEGAN Cake Upcharge,4100 - Food Sales,FALSE
+315,MNKY Lunchbox Cookie,Purchase,,TRUE,MNKY,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,0.5,0,0.5,MNKY Lunchbox Cookie,4100 - Food Sales,FALSE
+314,MNKY Macaron Sleeve,Purchase,,TRUE,MNKY,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,22.5,0,22.5,MNKY Macaron Sleeve,4100 - Food Sales,FALSE
+316,MNKY Muffin Tray,Purchase,,TRUE,MNKY,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,18,0,18,MNKY Muffin Tray,4100 - Food Sales,FALSE
+313,MNKY Pastry Tray,Purchase,,TRUE,MNKY,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,33,0,33,MNKY Pastry Tray,4100 - Food Sales,FALSE
+312,MNKY Pie,Purchase,,TRUE,MNKY,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,24.75,0,24.75,MNKY Pie,4100 - Food Sales,FALSE
+311,MNKY Quiche,Purchase,,TRUE,MNKY,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,24.75,0,24.75,MNKY Quiche,4100 - Food Sales,FALSE
+298,NA BEV Juice Classic Green (Bulk),Purchase,,TRUE,Juice,Gallon,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,29,50,43.5,NA BEV Juice Classic Green (Bulk),4130 - N/A Bev Sales,FALSE
+294,NA BEV Juice Clean Carbon (Bulk),Purchase,,TRUE,Juice,Gallon,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,29,50,43.5,NA BEV Juice Clean Carbon (Bulk),4130 - N/A Bev Sales,FALSE
+297,NA BEV Juice Deeply Rooted (Bulk),Purchase,,TRUE,Juice,Gallon,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,29,50,43.5,NA BEV Juice Deeply Rooted (Bulk),4130 - N/A Bev Sales,FALSE
+296,NA BEV Juice Immunity Boost (Bulk),Purchase,,TRUE,Juice,Gallon,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,29,50,43.5,NA BEV Juice Immunity Boost (Bulk),4130 - N/A Bev Sales,FALSE
+295,NA BEV Juice Just Orange (Bulk),Purchase,,TRUE,Juice,Gallon,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,29,50,43.5,NA BEV Juice Just Orange (Bulk),4130 - N/A Bev Sales,FALSE
+115,O&F Yellow Bag,Purchase,,TRUE,Supply,Case - 1000/CT,Case - 1000/CT,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,10,10,TO GO Yellow O&F Bag,4202 - Retail Merchandise Sales,FALSE
+551,OTF Banana Walnut Bread,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.0828,50,1.62,OTF Banana Walnut Bread,4108 - Bakeshop Pastry Sales,FALSE
+510,"OTF Birthday Cake (3"")",Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,2.494,50,3.74,"OTF Birthday Cake (3"")",4108 - Bakeshop Pastry Sales,FALSE
+528,"OTF Black Forest Cake (3"")",Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,2.5903,50,3.89,"OTF Black Forest Cake (3"")",4108 - Bakeshop Pastry Sales,FALSE
+511,OTF Blueberry Drop Scone,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,0.9776,50,1.47,OTF Blueberry Drop Scone,4108 - Bakeshop Pastry Sales,FALSE
+507,OTF Blueberry Muffin,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,2.28,50,3.42,OTF Blueberry Muffin,4108 - Bakeshop Pastry Sales,FALSE
+441,OTF Breakfast Caprese Sandwich,Recipe,,TRUE,Grab & Go,Each,Each,,1.2272,50,1.84,OTF Breakfast Caprese Sandwich,4104 - Grab & Go Food Sales,FALSE
+40,OTF Breakfast Sandwich Classic,Recipe,,TRUE,Grab & Go,Each,Each,"PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",1.2041,50,1.81,OTF Breakfast Classic Sandwich,4106 - Comm Prepped Food Sales,FALSE
+32,OTF Burrito Breakfast Bacon,Recipe,,TRUE,Grab & Go,Each,Each,"PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",2.0155,50,3.02,OTF Burrito Breakfast Bacon,4106 - Comm Prepped Food Sales,FALSE
+449,OTF Burrito Breakfast Chorizo,Recipe,,TRUE,Grab & Go,Each,Each,PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***,2.3829,50,3.57,OTF Burrito Breakfast Chorizo,4106 - Comm Prepped Food Sales,FALSE
+33,OTF Burrito Breakfast Egg & Cheese,Recipe,,TRUE,Grab & Go,Each,Each,"PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",1.8593,50,2.79,OTF Burrito Breakfast Egg & Cheese,4106 - Comm Prepped Food Sales,FALSE
+530,OTF Cheesecake Fruit Topped,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,3.3823,50,5.07,OTF Cheesecake Fruit Topped,4108 - Bakeshop Pastry Sales,FALSE
+576,"OTF Chicken ""Pesto"" Fettuccine Bowl",Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,3.3972,0,3.4,"OTF Chicken ""Pesto"" Fettuccine Bowl",4104 - Grab & Go Food Sales,FALSE
+514,OTF Chocolate Fudge Cake,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,2.6554,50,3.98,OTF Chocolate Fudge Cake,4108 - Bakeshop Pastry Sales,FALSE
+569,OTF Chocolate Mallo Bar,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.9579,50,2.94,OTF Chocolate Mallo Bar,4108 - Bakeshop Pastry Sales,FALSE
+529,OTF Cinnamon Cream Muffin,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.5312,50,2.3,OTF Cinnamon Cream Muffin,4108 - Bakeshop Pastry Sales,FALSE
+531,OTF Cinnamon Roll,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.8404,50,2.76,OTF Cinnamon Roll,4108 - Bakeshop Pastry Sales,FALSE
+535,OTF Coffee Cake,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.5844,50,2.38,OTF Coffee Cake,4108 - Bakeshop Pastry Sales,FALSE
+546,"OTF Cookie Big ""O""",Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.8686,50,2.8,"OTF Cookie Big ""O""",4108 - Bakeshop Pastry Sales,FALSE
+540,OTF Cookie Chocolate Chip,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.6627,50,2.49,OTF Cookie Chocolate Chip,4108 - Bakeshop Pastry Sales,FALSE
+541,OTF Cookie Double Chocolate,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.2814,50,1.92,OTF Cookie Double Chocolate,4108 - Bakeshop Pastry Sales,FALSE
+542,OTF Cookie Oatmeal Raisin,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.2544,50,1.88,OTF Cookie Oatmeal Raisin,4108 - Bakeshop Pastry Sales,FALSE
+544,OTF Cookie Peanut Butter,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.0208,50,1.53,OTF Cookie Peanut Butter,4108 - Bakeshop Pastry Sales,FALSE
+543,OTF Cookie Sprinkledoodle,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,0.8714,50,1.31,OTF Cookie Sprinkledoodle,4108 - Bakeshop Pastry Sales,FALSE
+545,OTF Cookie Toffee Butterscotch,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.6181,50,2.43,OTF Cookie Toffee Butterscotch,4108 - Bakeshop Pastry Sales,FALSE
+536,OTF Cream Puff,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.5673,50,2.35,OTF Cream Puff,4108 - Bakeshop Pastry Sales,FALSE
+553,OTF Croissant Almond,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,3.3854,50,5.08,OTF Croissant Almond,4108 - Bakeshop Pastry Sales,FALSE
+557,OTF Croissant Butter,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.4208,50,2.13,OTF Croissant Butter,4108 - Bakeshop Pastry Sales,FALSE
+554,OTF Croissant Cherry Almond,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,3.7797,50,5.67,OTF Croissant Cherry Almond,4108 - Bakeshop Pastry Sales,FALSE
+555,OTF Croissant Chocolate,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.9476,50,2.92,OTF Croissant Chocolate,4108 - Bakeshop Pastry Sales,FALSE
+556,OTF Croissant Chocolate ALmond,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,4.1736,50,6.26,OTF Croissant Chocolate ALmond,4108 - Bakeshop Pastry Sales,FALSE
+539,OTF Danish Blueberry,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.5653,50,2.35,OTF Danish Blueberry,4108 - Bakeshop Pastry Sales,FALSE
+538,OTF Danish Cherry,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.7198,50,2.58,OTF Danish Cherry,4108 - Bakeshop Pastry Sales,FALSE
+455,OTF Energy Balls Chocolate & Peanut Butter,Recipe,,TRUE,Pastry,Each,Pack (25 CT),,4.4443,55,6.89,OTF Energy Balls Chocolate & Peanut Butter,4108 - Bakeshop Pastry Sales,FALSE
+456,OTF Energy Balls Chocolate Coconut,Recipe,,TRUE,Pastry,Each,Pack (25 CT),,5.3534,55,8.3,OTF Energy Balls Chocolate Coconut,4108 - Bakeshop Pastry Sales,FALSE
+454,OTF Energy Balls Double Chocolate,Recipe,,TRUE,Pastry,Each,Pack (25 CT),,4.3063,55,6.67,OTF Energy Balls Double Chocolate,4108 - Bakeshop Pastry Sales,FALSE
+577,OTF Fettuccine & Meatball Bowl,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,2.3259,0,2.33,OTF Fettuccine & Meatball Bowl,4104 - Grab & Go Food Sales,FALSE
+29,OTF Flatbread Italian,Recipe,,TRUE,Grab & Go,Each,Pack (12 CT),PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***,35.6721,55,55.29,OTF Flatbread Italian,4106 - Comm Prepped Food Sales,FALSE
+30,OTF Flatbread Margherita,Recipe,,TRUE,Grab & Go,Each,Pack (12 CT),PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***,25.1687,55,39.01,OTF Flatbread Margherita,4106 - Comm Prepped Food Sales,FALSE
+527,"OTF German Chocolate Cake (3"")",Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,2.5662,50,3.85,"OTF German Chocolate Cake (3"")",4108 - Bakeshop Pastry Sales,FALSE
+513,OTF Grandma's Carrot Cake,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.8218,50,2.73,OTF Grandma's Carrot Cake,4108 - Bakeshop Pastry Sales,FALSE
+578,OTF Green Chili Mac & Cheese,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,1.5326,50,2.3,OTF Green Chili Mac & Cheese,4104 - Grab & Go Food Sales,FALSE
+537,OTF Ham & Swiss Croissant,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,2.2355,50,3.35,OTF Ham & Swiss Croissant,4108 - Bakeshop Pastry Sales,FALSE
+562,OTF Handpie Apple,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.1934,50,1.79,OTF Handpie Apple,4108 - Bakeshop Pastry Sales,FALSE
+561,OTF Handpie Buffalo Chicken,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,0.53,50,0.8,OTF Handpie Buffalo Chicken,4108 - Bakeshop Pastry Sales,FALSE
+563,OTF Handpie Cherry,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.4318,50,2.15,OTF Handpie Cherry,4108 - Bakeshop Pastry Sales,FALSE
+558,OTF Handpie Hazelnut,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.7006,50,2.55,OTF Handpie Hazelnut,4108 - Bakeshop Pastry Sales,FALSE
+560,OTF Handpie Pork Green Chili,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.2974,50,1.95,OTF Handpie Pork Green Chili,4108 - Bakeshop Pastry Sales,FALSE
+559,OTF Handpie Strawberry,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.8339,50,2.75,OTF Handpie Strawberry,4108 - Bakeshop Pastry Sales,FALSE
+526,OTF Jalapeno Cheddar Scone,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.4633,50,2.19,OTF Jalapeno Cheddar Scone,4108 - Bakeshop Pastry Sales,FALSE
+575,OTF Kale and Farro Salad,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,3.1228,0,3.12,OTF Kale and Farro Salad,4104 - Grab & Go Food Sales,FALSE
+550,OTF Lemon Poppyseed Bread,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,0.8719,50,1.31,OTF Lemon Poppyseed Bread,4108 - Bakeshop Pastry Sales,FALSE
+509,"OTF Limoncello Cake (3"")",Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,5.705,50,8.56,"OTF Limoncello Cake (3"")",4108 - Bakeshop Pastry Sales,FALSE
+512,OTF Matcha Milk Cake,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.4468,50,2.17,OTF Matcha Milk Cake,4108 - Bakeshop Pastry Sales,FALSE
+579,OTF Mediterranean Pasta Salad Side,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,2.0964,50,3.14,OTF Mediterranean Pasta Salad Side,4104 - Grab & Go Food Sales,FALSE
+547,OTF Oatmeal Cream Pie,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.3223,50,1.98,OTF Oatmeal Cream Pie,4108 - Bakeshop Pastry Sales,FALSE
+508,OTF OMG Smores Brownie,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,2.4148,50,3.62,OTF OMG Smores Brownie,4108 - Bakeshop Pastry Sales,FALSE
+439,OTF Overnight Oats with Muesli,Recipe,,TRUE,Grab & Go,Each,Each,"PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",1.6573,50,2.49,OTF Overnight Oats with Muesli,4104 - Grab & Go Food Sales,FALSE
+28,OTF Panini Caprese,Recipe,,TRUE,Grab & Go,Each,Pack (6 CT),PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***,14.5561,50,21.83,OTF Panini Caprese,4106 - Comm Prepped Food Sales,FALSE
+37,OTF Panini Cubano,Recipe,,TRUE,Grab & Go,Each,Pack (6 CT),PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***,17.6551,50,26.48,OTF Panini Cubano,4106 - Comm Prepped Food Sales,FALSE
+532,OTF Pecan Sticky Bun,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,3.6531,50,5.48,OTF Pecan Sticky Bun,4108 - Bakeshop Pastry Sales,FALSE
+564,OTF Pot Pie Pork Green Chili,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,3.8603,50,5.79,OTF Pot Pie Pork Green Chili,4108 - Bakeshop Pastry Sales,FALSE
+549,OTF Pumpkin Bread,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.3203,50,1.98,OTF Pumpkin Bread,4108 - Bakeshop Pastry Sales,FALSE
+534,OTF Quiche Florentine,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,4.6728,50,7.01,OTF Quiche Florentine,4108 - Bakeshop Pastry Sales,FALSE
+533,OTF Quiche Lorraine,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,4.7962,50,7.19,OTF Quiche Lorraine,4108 - Bakeshop Pastry Sales,FALSE
+523,OTF Red Velvet Cake,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,3.0129,50,4.52,OTF Red Velvet Cake,4108 - Bakeshop Pastry Sales,FALSE
+516,OTF Retail Almonds,Recipe,,TRUE,Retail,Each,Each,"RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***, OTF CATALOG",2.6767,50,4.02,OTF Retail Almonds,4201 - Retail Food Sales,FALSE
+565,OTF Retail Chocolate Buttons,Recipe,,TRUE,Retail,Each,Each,"RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***, OTF CATALOG",2.93,50,4.4,OTF Retail Chocolate Buttons,4201 - Retail Food Sales,FALSE
+520,OTF Retail Dried Apricots,Recipe,,TRUE,Retail,Each,Each,"RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***, OTF CATALOG",4.6142,50,6.92,OTF Retail Dried Apricots,4201 - Retail Food Sales,FALSE
+517,OTF Retail French Burnt Peanuts,Recipe,,TRUE,Retail,Each,Each,"RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***, OTF CATALOG",1.9881,50,2.98,OTF Retail French Burnt Peanuts,4201 - Retail Food Sales,FALSE
+519,OTF Retail Juicy Jays,Recipe,,TRUE,Retail,Each,Each,"RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***, OTF CATALOG",0.8948,50,1.34,OTF Retail Juicy Jays,4201 - Retail Food Sales,FALSE
+571,OTF Retail Kettle Chips,Recipe,,TRUE,Retail,Each,Each,"RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***, OTF CATALOG",1.5898,50,2.38,OTF Kettle Chips,4104 - Grab & Go Food Sales,FALSE
+570,OTF Retail Old Bay Chips,Recipe,,TRUE,Retail,Each,Each,"RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***, OTF CATALOG",1.8,50,2.7,OTF Old Bay Chips,4104 - Grab & Go Food Sales,FALSE
+522,OTF Retail Salted Chocolate Pretzel Rods,Recipe,,TRUE,Retail,Each,Each,"PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",0.5339,50,0.8,OTF Retail Salted Chocolate Pretzel Rods,4108 - Bakeshop Pastry Sales,FALSE
+518,OTF Retail Sour Gummy Worms,Recipe,,TRUE,Retail,Each,Each,"RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***, OTF CATALOG",0.9758,50,1.46,OTF Retail Sour Gummy Worms,4201 - Retail Food Sales,FALSE
+566,OTF Retail Trail Mix,Recipe,,TRUE,Retail,Each,Each,"RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***, OTF CATALOG",1.5761,50,2.36,OTF Retail Trail Mix,4201 - Retail Food Sales,FALSE
+567,OTF Retail Unicorn Pop!,Recipe,,TRUE,Retail,Each,Each,"RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***, OTF CATALOG",0.53,50,0.8,OTF Retail Rainbow Vanilla Popcorn,4201 - Retail Food Sales,FALSE
+568,OTF Retail White Cheddar Popcorn,Recipe,,TRUE,Retail,Each,Each,"RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***, OTF CATALOG",0.74,50,1.11,OTF Retail White Cheddar Popcorn,4201 - Retail Food Sales,FALSE
+521,OTF Retail Zebra Chocolate Pretzel Rods,Recipe,,TRUE,Retail,Each,Each,"PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",0.971,50,1.46,OTF Retail Zebra Chocolate Pretzel Rods,4108 - Bakeshop Pastry Sales,FALSE
+548,OTF Righteous Brownie,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.4207,50,2.13,OTF Righteous Brownie,4108 - Bakeshop Pastry Sales,FALSE
+112,OTF Salad Asian Chicken Noodle,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,2.3173,50,3.48,OTF Salad Asian Chicken Noodle,4104 - Grab & Go Food Sales,FALSE
+16,OTF Salad BLT,Recipe,,TRUE,Grab & Go,Each,Each,,2.3271,50,3.49,OTF Salad BLT,4104 - Grab & Go Food Sales,FALSE
+24,OTF Salad Chicken Caesar,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,2.6509,50,3.98,OTF Salad Chicken Caesar,4104 - Grab & Go Food Sales,FALSE
+15,OTF Salad Chopped Asian Chicken,Recipe,,TRUE,Grab & Go,Each,Each,PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***,2.5013,50,3.75,OTF Salad Chopped Asian Chicken,4104 - Grab & Go Food Sales,FALSE
+426,OTF Salad Classic Beet,Recipe,,TRUE,Grab & Go,Each,Each,,2.798,50,4.2,OTF Salad Classic Beet,4104 - Grab & Go Food Sales,FALSE
+14,OTF Salad Cobb,Recipe,,TRUE,Grab & Go,Each,Each,"PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",3.5999,50,5.4,OTF Salad Cobb,4104 - Grab & Go Food Sales,FALSE
+13,OTF Salad Curry Bird,Recipe,,TRUE,Grab & Go,Each,Each,,2.6997,50,4.05,OTF Salad Curry Bird,4104 - Grab & Go Food Sales,FALSE
+427,OTF Salad Italian Chopped,Recipe,,TRUE,Grab & Go,Each,Each,"PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",2.8467,50,4.27,OTF Salad Italian Chopped,4104 - Grab & Go Food Sales,FALSE
+12,OTF Salad Kale & Farro,Recipe,,TRUE,Grab & Go,Each,Each,PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***,2.7412,50,4.11,OTF Salad Kale & Farro,4104 - Grab & Go Food Sales,FALSE
+11,OTF Salad Mexican Caesar,Recipe,,TRUE,Grab & Go,Each,Each,"PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",4.2142,50,6.32,OTF Salad Mexican Caesar,4104 - Grab & Go Food Sales,FALSE
+36,OTF Salad Power Green,Recipe,,TRUE,Grab & Go,Each,Each,,2.3561,50,3.53,OTF Salad Power Green,4104 - Grab & Go Food Sales,FALSE
+430,OTF Salad Quinoa,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,2.2344,50,3.35,OTF Salad Quinoa,4104 - Grab & Go Food Sales,FALSE
+10,OTF Salad Sesame Tofu,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,1.8334,50,2.75,OTF Salad Sesame Tofu,4104 - Grab & Go Food Sales,FALSE
+35,OTF Salad The Med,Recipe,,TRUE,Grab & Go,Each,Each,"PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",1.8771,50,2.82,OTF Salad The Med,4104 - Grab & Go Food Sales,FALSE
+450,OTF Sandwich Chicken Caprese,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,2.576,50,3.86,OTF Sandwich Chicken Caprese,4104 - Grab & Go Food Sales,FALSE
+22,OTF Sandwich Chicken Club,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,2.4561,50,3.68,OTF Sandwich Chicken Club,4104 - Grab & Go Food Sales,FALSE
+452,OTF Sandwich Curry Chicken Salad,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,2.5967,50,3.9,OTF Sandwich Curry Chicken Salad,4104 - Grab & Go Food Sales,FALSE
+451,OTF Sandwich Curry Chickpea,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,1.8658,50,2.8,OTF Sandwich Curry Chickpea,4104 - Grab & Go Food Sales,FALSE
+438,OTF Sandwich Egg Salad,Recipe,,TRUE,Grab & Go,Each,Each,,3.1709,50,4.76,OTF Sandwich Egg Salad,4104 - Grab & Go Food Sales,FALSE
+436,OTF Sandwich Ham & Cheddar,Recipe,,TRUE,Grab & Go,Each,Each,,2.2806,50,3.42,OTF Sandwich Ham & Cheddar,4104 - Grab & Go Food Sales,FALSE
+443,OTF Sandwich Ham & Cheddar on Pretzel Roll,Recipe,,TRUE,Grab & Go,Each,Each,,2.3358,50,3.5,OTF Sandwich Ham & Cheddar on Pretzel Roll,4104 - Grab & Go Food Sales,FALSE
+448,OTF Sandwich Ham & Swiss on Croissant,Recipe,,TRUE,Grab & Go,Each,Each,,2.3817,50,3.57,OTF Sandwich Ham & Swiss on Croissant,4104 - Grab & Go Food Sales,FALSE
+23,OTF Sandwich Italian,Recipe,,TRUE,Grab & Go,Each,Each,"PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",2.3603,50,3.54,OTF Sandwich Italian,4104 - Grab & Go Food Sales,FALSE
+444,OTF Sandwich Peanut Butter & Jelly,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,1.7501,50,2.63,OTF Sandwich Peanut Butter & Jelly,4104 - Grab & Go Food Sales,FALSE
+445,OTF Sandwich Peanut Butter & Nutella,Recipe,,TRUE,Grab & Go,Each,Each,,1.844,50,2.77,OTF Sandwich Peanut Butter & Nutella,4104 - Grab & Go Food Sales,FALSE
+21,OTF Sandwich Portobello,Recipe,,TRUE,Grab & Go,Each,Each,,2.0924,50,3.14,OTF Sandwich Portobello,4104 - Grab & Go Food Sales,FALSE
+435,OTF Sandwich Roast Beef & Provolone,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,2.4712,50,3.71,OTF Sandwich Roast Beef & Provolone,4104 - Grab & Go Food Sales,FALSE
+446,OTF Sandwich Roast Beef Baguette,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,3.1494,50,4.72,OTF Sandwich Roast Beef Baguette,4104 - Grab & Go Food Sales,FALSE
+20,OTF Sandwich Roast Turkey & Fig,Recipe,,TRUE,Grab & Go,Each,Each,"PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",2.7044,50,4.06,OTF Sandwich Roast Turkey & Fig,4104 - Grab & Go Food Sales,FALSE
+39,OTF Sandwich Southwest Breakfast,Recipe,,TRUE,Grab & Go,Each,Each,"PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",0.8826,50,1.32,OTF Breakfast Southwest Sandwich,4106 - Comm Prepped Food Sales,FALSE
+442,OTF Sandwich SW Chicken,Recipe,,TRUE,Grab & Go,Each,Each,PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***,2.4514,50,3.68,OTF Sandwich SW Chicken,4104 - Grab & Go Food Sales,FALSE
+447,OTF Sandwich Traditional Chicken Salad,Recipe,,TRUE,Grab & Go,Each,Each,,2.3354,50,3.5,OTF Sandwich Traditional Chicken Salad,4104 - Grab & Go Food Sales,FALSE
+437,OTF Sandwich Turkey & Cheddar on White,Recipe,,TRUE,Grab & Go,Each,Each,,2.3115,50,3.47,OTF Sandwich Turkey & Cheddar on White,4104 - Grab & Go Food Sales,FALSE
+453,"OTF Sandwich Turkey, Ham & Swiss",Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,2.2152,50,3.32,"OTF Sandwich Turkey, Ham & Swiss",4104 - Grab & Go Food Sales,FALSE
+9,OTF Side Salad Asian Slaw,Recipe,,TRUE,Grab & Go,Each,Each,,1.4392,50,2.16,OTF Side Salad Asian Slaw,4104 - Grab & Go Food Sales,FALSE
+458,OTF Side Salad Buffalo Chicken,Recipe,,TRUE,Grab & Go,Each,Each,,2.0327,50,3.05,OTF Side Salad Buffalo Chicken,4104 - Grab & Go Food Sales,FALSE
+8,OTF Side Salad Classic Potato,Recipe,,TRUE,Grab & Go,Each,Each,,1.7529,50,2.63,OTF Side Salad Classic Potato,4104 - Grab & Go Food Sales,FALSE
+457,OTF Side Salad Curry Chicken,Recipe,,TRUE,Grab & Go,Each,Each,,2.608,50,3.91,OTF Side Salad Curry Chicken,4104 - Grab & Go Food Sales,FALSE
+459,OTF Side Salad Curry Chickpea,Recipe,,TRUE,Grab & Go,Each,Each,,1.3333,50,2,OTF Side Salad Curry Chickpea,4104 - Grab & Go Food Sales,FALSE
+7,OTF Side Salad Mediterranean Pasta,Recipe,,TRUE,Grab & Go,Each,Each,PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***,1.1173,50,1.68,OTF Side Salad Mediterranean Pasta,4104 - Grab & Go Food Sales,FALSE
+6,OTF Side Salad Pesto Pasta,Recipe,,TRUE,Grab & Go,Each,Each,"PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",1.1759,50,1.76,OTF Side Salad Pesto Pasta,4104 - Grab & Go Food Sales,FALSE
+460,OTF Side Salad Tuscan Bean,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,1.2646,50,1.9,OTF Side Salad Tuscan Bean,4104 - Grab & Go Food Sales,FALSE
+461,OTF Snack Box Buffalo Chicken Salad,Recipe,,TRUE,Grab & Go,Each,Each,,2.1441,50,3.22,OTF Snack Box Buffalo Chicken Salad,4104 - Grab & Go Food Sales,FALSE
+462,OTF Snack Box Cheese Board,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,2.6889,50,4.03,OTF Snack Box Cheese Board,4104 - Grab & Go Food Sales,FALSE
+34,OTF Snack Box Egg Salad,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,2.0088,50,3.01,OTF Snack Box Egg Salad,4104 - Grab & Go Food Sales,FALSE
+19,OTF Snack Box Fresh Seasonal Berries,Recipe,,TRUE,Grab & Go,Each,Each,"PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",1.6481,50,2.47,OTF Snack Box Fresh Seasonal Berries,4104 - Grab & Go Food Sales,FALSE
+434,OTF Snack Box Good Morning,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,2.2717,50,3.41,OTF Snack Box Good Morning,4104 - Grab & Go Food Sales,FALSE
+433,OTF Snack Box Hard Boiled Eggs,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,2.2056,50,3.31,OTF Snack Box Hard Boiled Eggs,4104 - Grab & Go Food Sales,FALSE
+38,OTF Snack Box Hummus & Veggies,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,2.075,50,3.11,OTF Snack Box Hummus & Veggies,4104 - Grab & Go Food Sales,FALSE
+515,OTF Snack Box Pineapple Melon Fruit Cup,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,2.9378,50,4.41,OTF Snack Box Pineapple Melon Fruit Cup,4104 - Grab & Go Food Sales,FALSE
+18,OTF Snack Box Protein,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,2.6038,50,3.91,OTF Snack Box Protein,4104 - Grab & Go Food Sales,FALSE
+5,OTF Snack Box Seedless Grapes,Recipe,,TRUE,Grab & Go,Each,Each,"PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",1.6512,50,2.48,OTF Snack Box Seedless Grapes,4104 - Grab & Go Food Sales,FALSE
+431,OTF Southwest Turkey Salad,Recipe,,TRUE,Grab & Go,Each,Each,,2.4941,50,3.74,OTF Southwest Turkey Salad,4104 - Grab & Go Food Sales,FALSE
+524,OTF Strawberry Cream Cake,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,2.3958,50,3.59,OTF Strawberry Cream Cake,4108 - Bakeshop Pastry Sales,FALSE
+525,OTF Tiramisu,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.6646,50,2.5,OTF Tiramisu,4108 - Bakeshop Pastry Sales,FALSE
+432,OTF Turkey Grain Salad,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,2.9695,50,4.45,OTF Turkey Grain Salad,4104 - Grab & Go Food Sales,FALSE
+506,OTF Vegan Bran Muffin,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,0.9774,50,1.47,OTF Vegan Bran Muffin,4108 - Bakeshop Pastry Sales,FALSE
+17,OTF Wrap Buffalo Chicken,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,2.1442,50,3.22,OTF Wrap Buffalo Chicken,4104 - Grab & Go Food Sales,FALSE
+26,OTF Wrap Chicken & Kale Caesar,Recipe,,TRUE,Grab & Go,Each,Each,,3.0092,50,4.51,OTF Wrap Chicken & Kale Caesar,4104 - Grab & Go Food Sales,FALSE
+27,OTF Wrap Turkey & Artichoke,Recipe,,TRUE,Grab & Go,Each,Each,OTF CATALOG,2.0183,50,3.03,OTF Wrap Turkey & Artichoke,4104 - Grab & Go Food Sales,FALSE
+25,OTF Yogurt Parfait,Recipe,,TRUE,Grab & Go,Each,Each,"PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***, OTF CATALOG",1.7241,50,2.59,OTF Yogurt Parfait,4104 - Grab & Go Food Sales,FALSE
+552,OTF Zucchini Bread,Recipe,,TRUE,Pastry,Each,Each,OTF CATALOG,1.137,50,1.71,OTF Zucchini Bread,4108 - Bakeshop Pastry Sales,FALSE
+367,PAPER Business Cards,Purchase,,TRUE,Retail,Case - 100/CT,Case - 100/CT,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,1,1,PAPER Business Cards,7193 - Paper Products,FALSE
+369,PAPER Catering Flyer,Purchase,,TRUE,Retail,Case - 100/CT,Case - 100/CT,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,1,1,PAPER Catering Flyer,7193 - Paper Products,FALSE
+366,PAPER Coffee Bags with Stickers,Purchase,,TRUE,Retail,Case - 100/CT,Case - 100/CT,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,1,1,PAPER Coffee Bags with Stickers,7193 - Paper Products,FALSE
+360,PAPER Expo Sticker AM Sammies,Purchase,,TRUE,Retail,Case - 500/CT,Case - 500/CT,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,1,1,PAPER Expo Sticker AM Sammies,7193 - Paper Products,FALSE
+365,PAPER Expo Sticker Blank,Purchase,,TRUE,Retail,Case - 500/CT,Case - 500/CT,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,1,1,PAPER Expo Sticker Blank,7193 - Paper Products,FALSE
+364,PAPER Expo Sticker Breakfast,Purchase,,TRUE,Retail,Case - 500/CT,Case - 500/CT,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,1,1,PAPER Expo Sticker Breakfast,7193 - Paper Products,FALSE
+363,PAPER Expo Sticker Salad,Purchase,,TRUE,Retail,Case - 500/CT,Case - 500/CT,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,1,1,PAPER Expo Sticker Salad,7193 - Paper Products,FALSE
+362,PAPER Expo Sticker Sandwich,Purchase,,TRUE,Retail,Case - 500/CT,Case - 500/CT,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,1,1,PAPER Expo Sticker Sandwich,7193 - Paper Products,FALSE
+361,PAPER Expo Sticker Shareables,Purchase,,TRUE,Retail,Case - 500/CT,Case - 500/CT,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,1,1,PAPER Expo Sticker Shareables,7193 - Paper Products,FALSE
+370,PAPER Gift Card with Envelope,Purchase,,TRUE,Retail,Case - 25/CT,Case - 25/CT,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,1,1,PAPER Gift Card with Envelope,7193 - Paper Products,FALSE
+306,PAPER Logo Coffee Sleeves,Purchase,,TRUE,Retail,Pack (1000 CT),Pack (1000 CT),RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,10,10,PAPER Logo Coffee Sleeves,7193 - Paper Products,FALSE
+368,PAPER Yellow Round O&F Sticker,Purchase,,TRUE,Retail,Case - 100/CT,Case - 100/CT,,0,4.1,4.1,PAPER Yellow Round O&F Sticker,7193 - Paper Products,FALSE
+477,PASTRY Bread Banana (MINI),Recipe,,TRUE,Pastry,Each,Pack (12 CT),,6.6341,50,9.95,PASTRY Bread Banana (MINI),4108 - Bakeshop Pastry Sales,FALSE
+476,PASTRY Bread Lemon Poppyseed (MINI),Recipe,,TRUE,Pastry,Each,Pack (12 CT),,4.1025,50,6.15,PASTRY Bread Lemon Poppyseed (MINI),4108 - Bakeshop Pastry Sales,FALSE
+478,PASTRY Bread Pumpkin (MINI),Recipe,,TRUE,Pastry,Each,Pack (12 CT),,9.4838,50,14.23,PASTRY Bread Pumpkin (MINI),4108 - Bakeshop Pastry Sales,FALSE
+479,PASTRY Bread Zucchini (MINI),Recipe,,TRUE,Pastry,Each,Pack (12 CT),,7.2839,50,10.93,PASTRY Bread Zucchini (MINI),4108 - Bakeshop Pastry Sales,FALSE
+52,PASTRY Cinnamon Roll,Recipe,,TRUE,Pastry,Each,Pack (4 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,5.2417,50,7.86,PASTRY ITEM Cinnamon Roll,4108 - Bakeshop Pastry Sales,FALSE
+78,PASTRY Croissant Almond,Recipe,,TRUE,Pastry,Each,Pack (3 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,8.5663,50,12.85,PASTRY ITEM Croissant Almond,4108 - Bakeshop Pastry Sales,FALSE
+45,PASTRY Croissant Ham & Cheese,Recipe,,TRUE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,10.2331,50,15.35,PASTRY ITEM Croissant Ham & Cheese,4108 - Bakeshop Pastry Sales,FALSE
+429,PASTRY Dog Treat,Recipe,,TRUE,Pastry,Each,Dozen,PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,2.9508,50,4.43,PASTRY Dog Treat,4201 - Retail Food Sales,FALSE
+490,PASTRY ITEM Assorted Chocolate Dipped Pretzels,Recipe,,TRUE,Pastry,Each,Case - 6/Pack (3CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,0,50,0,PASTRY ITEM Assorted Chocolate Dipped Pretzels,4108 - Bakeshop Pastry Sales,FALSE
+70,PASTRY ITEM Bar Fruit Crumble,Recipe,,FALSE,,Each,Pack (6 CT),,8.9825,50,13.47,PASTRY ITEM Bar Fruit Crumble,4100 - Food Sales,FALSE
+469,"PASTRY ITEM Black Forest Cake (3"")",Recipe,,TRUE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,12.3616,50,18.54,"PASTRY ITEM Black Forest Cake (3"")",4108 - Bakeshop Pastry Sales,FALSE
+87,"PASTRY ITEM Brownie ""OMG"" Smores",Recipe,,FALSE,Pastry,Each,Pack (6 CT),,11.3088,50,16.96,"PASTRY ITEM Brownie ""OMG"" Smores",4108 - Bakeshop Pastry Sales,FALSE
+77,"PASTRY ITEM Cake Birthday (3"")",Recipe,,TRUE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,11.7843,50,17.68,"PASTRY ITEM Cake Birthday (3"")",4108 - Bakeshop Pastry Sales,FALSE
+465,PASTRY ITEM Cake Carrot Rectangle,Recipe,,TRUE,Pastry,Each,Pack (8 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,10.334,50,15.5,PASTRY ITEM Cake Carrot Rectangle,4108 - Bakeshop Pastry Sales,FALSE
+466,"PASTRY ITEM Cake German Chocolate (3"")",Recipe,,TRUE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,12.2174,50,18.33,"PASTRY ITEM Cake German Chocolate (3"")",4108 - Bakeshop Pastry Sales,FALSE
+64,PASTRY ITEM Cake Jar Mary's Banana Pudding,Recipe,,FALSE,,Each,Pack (6 CT),,4.063,50,6.09,PASTRY ITEM Cake Jar Mary's Banana Pudding,4100 - Food Sales,FALSE
+480,PASTRY ITEM Cake Red Velvet Rectangle,Recipe,,TRUE,Pastry,Each,Pack (8 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,19.863,50,29.79,PASTRY ITEM Cake Red Velvet Rectangle,4108 - Bakeshop Pastry Sales,FALSE
+471,PASTRY ITEM Cake Strawberry Cream Rectangle,Recipe,,TRUE,Pastry,Each,Pack (8 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,14.9264,50,22.39,PASTRY ITEM Cake Strawberry Cream Rectangle,4108 - Bakeshop Pastry Sales,FALSE
+54,PASTRY ITEM Cheesecake Fruit Topped,Recipe,,TRUE,Pastry,Each,Pack (3 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,8.5569,50,12.84,PASTRY ITEM Cheesecake Fruit Topped,4108 - Bakeshop Pastry Sales,FALSE
+573,PASTRY ITEM Chocolate Dipped Strawberries,Recipe,,TRUE,,Each,Each,,0,0,0,PASTRY ITEM Chocolate Dipped Strawberries,4101 - Pastry Sales,FALSE
+572,PASTRY ITEM Chocolate Dipped Strawberries (6 Pack),Recipe,,TRUE,,Pack (6 CT),Pack (6 CT),,0,0,0,PASTRY ITEM Chocolate Dipped Strawberries (6 Pack),4101 - Pastry Sales,FALSE
+68,PASTRY ITEM Coffee Cake,Recipe,,TRUE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,6.3265,50,9.49,PASTRY ITEM Coffee Cake,4108 - Bakeshop Pastry Sales,FALSE
+80,"PASTRY ITEM Cookie Big ""O""",Recipe,,TRUE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,8.0315,50,12.05,"PASTRY ITEM Cookie Big ""O""",4108 - Bakeshop Pastry Sales,FALSE
+470,PASTRY ITEM Cream Puff Large,Recipe,,TRUE,Pastry,Each,Pack (12 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,12.4479,50,18.67,PASTRY ITEM Cream Puff Large,4108 - Bakeshop Pastry Sales,FALSE
+74,PASTRY ITEM Croissant Cherry Almond,Recipe,,FALSE,Pastry,Each,Pack (3 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,6.4493,50,9.67,PASTRY ITEM Croissant Cherry Almond,4108 - Bakeshop Pastry Sales,FALSE
+475,PASTRY ITEM Croissant Chocolate Almond,Recipe,,TRUE,Pastry,Each,Pack (3 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,10.9307,50,16.4,PASTRY ITEM Croissant Chocolate Almond,4108 - Bakeshop Pastry Sales,FALSE
+492,PASTRY ITEM Cupcake Christmas Tree,Recipe,,TRUE,Pastry,Each,Pack (3 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,0,50,0,PASTRY ITEM Cupcake Christmas Tree,4108 - Bakeshop Pastry Sales,FALSE
+491,PASTRY ITEM Cupcake Hanukkah,Recipe,,TRUE,Pastry,Each,Pack (3 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,0,50,0,PASTRY ITEM Cupcake Hanukkah,4108 - Bakeshop Pastry Sales,FALSE
+493,PASTRY ITEM Cupcake Snowman,Recipe,,TRUE,Pastry,Each,Pack (3 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,0,50,0,PASTRY ITEM Cupcake Snowman,4108 - Bakeshop Pastry Sales,FALSE
+63,PASTRY ITEM Danish Apple,Recipe,,TRUE,Pastry,Each,Pack (3 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,2.8546,50,4.28,PASTRY ITEM Danish Apple,4108 - Bakeshop Pastry Sales,FALSE
+62,PASTRY ITEM Danish Blueberry,Recipe,,TRUE,Pastry,Each,Pack (3 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,3.106,50,4.66,PASTRY ITEM Danish Blueberry,4108 - Bakeshop Pastry Sales,FALSE
+61,PASTRY ITEM Danish Cherry,Recipe,,TRUE,Pastry,Each,Pack (3 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,3.5695,50,5.35,PASTRY ITEM Danish Cherry,4108 - Bakeshop Pastry Sales,FALSE
+50,PASTRY ITEM Danish Croque Madame,Recipe,,TRUE,Pastry,Each,Pack (3 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,5.8261,50,8.74,PASTRY ITEM Danish Croque Madame,4108 - Bakeshop Pastry Sales,FALSE
+46,PASTRY ITEM Danish Shakshuka,Recipe,,TRUE,Pastry,Each,Pack (3 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,6.5918,50,9.89,PASTRY ITEM Danish Shakshuka,4108 - Bakeshop Pastry Sales,FALSE
+60,PASTRY ITEM Handpie Apple,Recipe,,TRUE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,3.9806,50,5.97,PASTRY ITEM Handpie Apple,4108 - Bakeshop Pastry Sales,FALSE
+58,PASTRY ITEM Handpie Cherry,Recipe,,FALSE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,5.4106,50,8.12,PASTRY ITEM Handpie Cherry,4108 - Bakeshop Pastry Sales,FALSE
+48,PASTRY ITEM Handpie Green Chili,Recipe,,TRUE,Pastry,Each,Pack (6 CT),,4.6046,50,6.91,PASTRY ITEM Handpie Green Chili,4108 - Bakeshop Pastry Sales,FALSE
+489,PASTRY ITEM Handpie Peach,Recipe,,FALSE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,3.9609,50,5.94,PASTRY ITEM Handpie Peach,4108 - Bakeshop Pastry Sales,FALSE
+468,PASTRY ITEM Matcha Milk Cake,Recipe,,TRUE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,5.5009,50,8.25,PASTRY ITEM Matcha Milk Cake,4108 - Bakeshop Pastry Sales,FALSE
+65,PASTRY ITEM Oatmeal Creme Pie,Recipe,,TRUE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,4.754,50,7.13,PASTRY ITEM Oatmeal Creme Pie,4108 - Bakeshop Pastry Sales,FALSE
+67,PASTRY ITEM Pecan Sticky Bun,Recipe,,TRUE,Pastry,Each,Pack (4 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,12.4925,50,18.74,PASTRY ITEM Pecan Sticky Bun,4108 - Bakeshop Pastry Sales,FALSE
+483,PASTRY ITEM Pie Caramel Apple (GF)(Whole),Recipe,,TRUE,Pastry,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,9.977,100,19.95,PASTRY ITEM Pie Caramel Apple (GF)(Whole),4108 - Bakeshop Pastry Sales,FALSE
+485,PASTRY ITEM Pie Caramel Apple (Whole),Recipe,,TRUE,Pastry,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,6.7655,100,13.53,PASTRY ITEM Pie Caramel Apple (Whole),4108 - Bakeshop Pastry Sales,FALSE
+484,PASTRY ITEM Pie Pumpkin (GF)(Whole),Recipe,,TRUE,Pastry,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,0,100,0,PASTRY ITEM Pie Pumpkin (GF)(Whole),4108 - Bakeshop Pastry Sales,FALSE
+487,PASTRY ITEM Pie Pumpkin (Whole),Recipe,,TRUE,Pastry,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,0,100,0,PASTRY ITEM Pie Pumpkin (Whole),4108 - Bakeshop Pastry Sales,FALSE
+482,PASTRY ITEM Pie Smores (GF)(Whole),Recipe,,TRUE,Pastry,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,0,100,0,PASTRY ITEM Pie Smores (GF)(Whole),4108 - Bakeshop Pastry Sales,FALSE
+488,PASTRY ITEM Pie Smores (Whole),Recipe,,TRUE,Pastry,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,0,100,0,PASTRY ITEM Pie Smores (Whole),4108 - Bakeshop Pastry Sales,FALSE
+486,PASTRY ITEM Pie Toffee Pecan (GF)(Whole),Recipe,,TRUE,Pastry,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,0,100,0,PASTRY ITEM Pie Toffee Pecan (GF)(Whole),4108 - Bakeshop Pastry Sales,FALSE
+481,PASTRY ITEM Pie Toffee Pecan (Whole),Recipe,,TRUE,Pastry,Each,Each,MNKY ITEMS ***ADMIN USE ONLY***,0,100,0,PASTRY ITEM Pie Toffee Pecan (Whole),4108 - Bakeshop Pastry Sales,FALSE
+59,PASTRY ITEM Poptart Nutella,Recipe,,FALSE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,7.0239,50,10.54,PASTRY ITEM Poptart Nutella,4108 - Bakeshop Pastry Sales,FALSE
+57,PASTRY ITEM Poptart Strawberry,Recipe,,TRUE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,7.8231,50,11.73,PASTRY ITEM Poptart Strawberry,4108 - Bakeshop Pastry Sales,FALSE
+44,PASTRY ITEM Pot Pie Pork Green Chili,Recipe,,TRUE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,19.982,50,29.97,PASTRY ITEM Pot Pie Pork Green Chili,4108 - Bakeshop Pastry Sales,FALSE
+473,"PASTRY ITEM Quiche Florentine (9"")",Recipe,,TRUE,Prepped Food,Each,Each,,15.7681,50,23.65,"PASTRY ITEM Quiche Florentine (9"")",4108 - Bakeshop Pastry Sales,FALSE
+43,PASTRY ITEM Quiche Florentine (IND),Recipe,,TRUE,Pastry,Each,Pack (6 CT),"PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***, MNKY ITEMS ***ADMIN USE ONLY***",24.8565,50,37.28,PASTRY ITEM Quiche Florentine (IND),4108 - Bakeshop Pastry Sales,FALSE
+474,"PASTRY ITEM Quiche Lorraine (9"")",Recipe,,TRUE,Prepped Food,Each,Each,,15.8405,50,23.76,"PASTRY ITEM Quiche Lorraine (9"")",4108 - Bakeshop Pastry Sales,FALSE
+472,"PASTRY ITEM Quiche Lorraine (Deep 9"")",Recipe,,TRUE,Prepped Food,Each,Each,PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,22.4454,50,33.67,"PASTRY ITEM Quiche Lorraine (Deep 9"")",4100 - Food Sales,FALSE
+42,PASTRY ITEM Quiche Lorraine (IND),Recipe,,TRUE,Pastry,Each,Pack (6 CT),"PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***, MNKY ITEMS ***ADMIN USE ONLY***",25.5972,50,38.4,PASTRY ITEM Quiche Lorraine (IND),4108 - Bakeshop Pastry Sales,FALSE
+66,PASTRY ITEM Retail Granola Bag,Recipe,,TRUE,Retail Food,Each,Pack (6 CT),RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,5.3946,50,8.09,PASTRY ITEM Retail Granola Bag,4201 - Retail Food Sales,FALSE
+467,PASTRY ITEM Tiramisu,Recipe,,FALSE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,6.8076,50,10.21,PASTRY ITEM Tiramisu,4108 - Bakeshop Pastry Sales,FALSE
+76,PASTRY Muffin Blueberry,Recipe,,TRUE,Pastry,Each,Pack (3 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,1.5491,50,2.32,PASTRY ITEM Muffin Blueberry,4108 - Bakeshop Pastry Sales,FALSE
+47,PASTRY Muffin Cinnamon Cream,Recipe,,TRUE,Pastry,Each,Pack (3 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,3.0035,50,4.51,PASTRY ITEM Muffin Cinnamon Cream,4108 - Bakeshop Pastry Sales,FALSE
+75,PASTRY Muffin Vegan Bran,Recipe,,TRUE,Pastry,Each,Pack (3 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,1.3421,50,2.01,PASTRY ITEM Muffin Vegan Bran,4108 - Bakeshop Pastry Sales,FALSE
+404,PORK Ham Capicola,Purchase,,TRUE,Prepped Food,LB,LB,PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***,5.91,50,8.87,PORK Ham Capicola,4106 - Comm Prepped Food Sales,FALSE
+405,PORK Prosciutto,Purchase,,TRUE,Prepped Food,LB,LB,PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***,5.94,50,8.91,PORK Prosciutto,4106 - Comm Prepped Food Sales,FALSE
+403,PORK Salami Genoa,Purchase,,TRUE,Prepped Food,LB,LB,PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***,4.43,50,6.65,PORK Salami Genoa,4106 - Comm Prepped Food Sales,FALSE
+111,PREP Apple Cider Vinaigrette,Recipe,,TRUE,Prepped Food,Gallon,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,10.4083,50,15.61,PREP Apple Cider Vinaigrette,4106 - Comm Prepped Food Sales,FALSE
+402,PREP Baba Ghanouj,Recipe,,TRUE,Prepped Food,Quart,Pint,PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***,2.8991,50,4.35,PREP Baba Ghanouj,4106 - Comm Prepped Food Sales,FALSE
+109,PREP Champagne Vinaigrette,Recipe,,TRUE,Prepped Food,Gallon,Gallon,"PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***, PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***",13.2115,50,19.82,PREP Champagne Vinaigrette,4106 - Comm Prepped Food Sales,FALSE
+110,PREP Citrus Herb Vinaigrette,Recipe,,TRUE,Prepped Food,Gallon,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,13.6283,50,20.44,PREP Citrus Herb Vinaigrette,4106 - Comm Prepped Food Sales,FALSE
+344,PREP Cranberry Relish,Recipe,,TRUE,Prepped Food,Gallon,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,7.9294,50,11.89,PREP Cranberry Relish,4106 - Comm Prepped Food Sales,FALSE
+97,PREP Curried Chicken Salad,Recipe,,TRUE,Prepped Food,Quart,Case - 6/Quart,PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***,15.997,50,24,PREP Curried Chicken Salad,4106 - Comm Prepped Food Sales,FALSE
+399,PREP Egg Salad,Recipe,,TRUE,Prepped Food,Quart,Quart,PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***,9.6271,50,14.44,PREP Egg Salad,4106 - Comm Prepped Food Sales,FALSE
+463,PREP Egg Wash,Recipe,,TRUE,Prepped Food,Pint,Pint,PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***,5.193,50,7.79,PREP Egg Wash,4106 - Comm Prepped Food Sales,FALSE
+341,PREP Garlic Aioli,Recipe,,TRUE,Prepped Food,Gallon,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,18.8284,50,28.24,PREP Garlic Aioli,4106 - Comm Prepped Food Sales,FALSE
+464,PREP Granola,Recipe,,TRUE,Prepped Food,Quart,Pack (4 QT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,10.2766,50,15.41,PREP Granola,4106 - Comm Prepped Food Sales,FALSE
+397,PREP Green Chili,Recipe,,TRUE,Prepped Food,Each,Gallon,PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***,18.5312,50,27.8,PREP Green Chili,4106 - Comm Prepped Food Sales,FALSE
+347,PREP Green Goddess Dressing,Recipe,,TRUE,Prepped Food,Quart,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,42.4313,50,63.65,PREP Green Goddess Dressing,4106 - Comm Prepped Food Sales,FALSE
+401,PREP Hummus,Recipe,,TRUE,Prepped Food,Quart,Pint,PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***,2.314,50,3.47,PREP Hummus,4106 - Comm Prepped Food Sales,FALSE
+340,PREP Matzo Ball Soup,Recipe,,TRUE,Prepped Food,Quart,Gallon,"PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***, PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***",5.0458,50,7.57,PREP Matzo Ball Soup,4106 - Comm Prepped Food Sales,FALSE
+428,PREP Matzo Balls,Recipe,,TRUE,Prepped Food,Each,Pack (12 CT),"PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***, PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***",4.5241,50,6.79,PREP Matzo Balls,4106 - Comm Prepped Food Sales,FALSE
+400,PREP Olive Tapenade,Recipe,,TRUE,Prepped Food,Gallon,Quart,PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***,6.1332,50,9.2,PREP Olive Tapenade,4106 - Comm Prepped Food Sales,FALSE
+440,PREP Overnight Oats,Recipe,,TRUE,Prepped Food,Quart,Pack (4 QT),PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,15.6651,50,23.5,PREP Overnight Oats,4106 - Comm Prepped Food Sales,FALSE
+94,PREP Pasta Salad Mediterranean,Recipe,,TRUE,Prepped Food,Quart,Half Gallon,,3.8197,50,5.73,PREP Pasta Salad Mediterranean,4106 - Comm Prepped Food Sales,FALSE
+398,PREP Pasta Salad Pesto,Recipe,,TRUE,Prepped Food,LB,Half Gallon,,1.9136,50,2.87,PREP Pasta Salad Pesto,4106 - Comm Prepped Food Sales,FALSE
+357,PREP Peanut Sauce,Recipe,,TRUE,Prepped Food,Cup,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,9.8027,50,14.7,PREP Peanut Sauce,4106 - Comm Prepped Food Sales,FALSE
+349,PREP Pickled Beets,Recipe,,TRUE,Prepped Food,LB,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,18.1639,50,27.25,PREP Pickled Beets,4106 - Comm Prepped Food Sales,FALSE
+350,PREP Pickled Cabbage,Recipe,,TRUE,Prepped Food,Quart,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,4.8337,50,7.25,PREP Pickled Cabbage,4106 - Comm Prepped Food Sales,FALSE
+352,PREP Pickled Fennel,Recipe,,TRUE,Prepped Food,LB,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,36.7476,50,55.12,PREP Pickled Fennel,4106 - Comm Prepped Food Sales,FALSE
+353,PREP Pickled Jalapenos,Recipe,,TRUE,Prepped Food,Quart,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,7.6185,50,11.43,PREP Pickled Jalapenos,4106 - Comm Prepped Food Sales,FALSE
+348,PREP Pickled Onion,Recipe,,TRUE,Prepped Food,LB,Gallon,"PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***, PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***",11.6477,50,17.47,PREP Pickled Onion,4106 - Comm Prepped Food Sales,FALSE
+351,PREP Pickled Turnips,Recipe,,TRUE,Prepped Food,Quart,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,5.9321,50,8.9,PREP Pickled Turnips,4106 - Comm Prepped Food Sales,FALSE
+354,PREP Pickled Vegetables,Recipe,,TRUE,Prepped Food,Quart,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,4.9922,50,7.49,PREP Pickled Vegetables,4106 - Comm Prepped Food Sales,FALSE
+342,PREP Red Pepper Aioli,Recipe,,TRUE,Prepped Food,Gallon,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,14.5506,50,21.83,PREP Red Pepper Aioli,4106 - Comm Prepped Food Sales,FALSE
+345,PREP Russian Dressing,Recipe,,TRUE,Prepped Food,Gallon,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,9.2929,50,13.94,PREP Russian Dressing,4106 - Comm Prepped Food Sales,FALSE
+107,PREP Sesame Vinaigrette,Recipe,,FALSE,Prepped Food,Gallon,Gallon,,13.7422,50,20.61,PREP Sesame Vinaigrette,4100 - Food Sales,FALSE
+103,PREP Shakshuka,Recipe,,FALSE,Prepped Food,Gallon,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,13.4759,50,20.21,PREP Shakshuka,4100 - Food Sales,FALSE
+358,PREP Soup Roasted Tomato (Vegan),Recipe,,TRUE,Prepped Food,Quart,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,9.3971,50,14.1,PREP Soup Roasted Tomato (Vegan),4106 - Comm Prepped Food Sales,FALSE
+346,PREP Sumac Vinaigrette,Recipe,,TRUE,Prepped Food,Quart,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,12.5142,50,18.77,PREP Sumac Vinaigrette,4106 - Comm Prepped Food Sales,FALSE
+343,PREP Tarragon Aioli,Recipe,,TRUE,Prepped Food,Gallon,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,30.6261,50,45.94,PREP Tarragon Aioli,4106 - Comm Prepped Food Sales,FALSE
+106,PREP Tarragon Vinaigrette,Recipe,,TRUE,Prepped Food,Gallon,Gallon,PREP CATALOG ***11AM CUTOFF FOR NEXT DAY DELIVERY***,14.2713,50,21.41,PREP Tarragon Vinaigrette,4106 - Comm Prepped Food Sales,FALSE
+93,PREP Zaatar Sauce,Recipe,,FALSE,,Quart,Quart,,4.004,50,6.01,PREP Zaatar Sauce,4100 - Food Sales,FALSE
+394,Retail Little Finch Mug,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,5,5,Retail Little Finch Mug,4202 - Retail Merchandise Sales,FALSE
+392,Retail Olive & Finch Canvas Brunch Bag,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,5,5,Retail Olive & Finch Canvas Brunch Bag,4202 - Retail Merchandise Sales,FALSE
+393,Retail Olive & Finch Mug,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,5,5,Retail Olive & Finch Mug,4202 - Retail Merchandise Sales,FALSE
+371,UNIFORM Apron,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,30,30,UNIFORM Apron,4202 - Retail Merchandise Sales,FALSE
+395,UNIFORM Bandana,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,4,4,UNIFORM Bandana,4202 - Retail Merchandise Sales,FALSE
+396,UNIFORM Baseball Hat,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,10,10,UNIFORM Baseball Hat,4202 - Retail Merchandise Sales,FALSE
+372,UNIFORM Cook Shirt 2XL,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,23,23,UNIFORM Cook Shirt 2XL,4202 - Retail Merchandise Sales,FALSE
+374,UNIFORM Cook Shirt L,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,23,23,UNIFORM Cook Shirt L,4202 - Retail Merchandise Sales,FALSE
+375,UNIFORM Cook Shirt M,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,23,23,UNIFORM Cook Shirt M,4202 - Retail Merchandise Sales,FALSE
+376,UNIFORM Cook Shirt S,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,23,23,UNIFORM Cook Shirt S,4202 - Retail Merchandise Sales,FALSE
+373,UNIFORM Cook Shirt XL,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,23,23,UNIFORM Cook Shirt XL,4202 - Retail Merchandise Sales,FALSE
+377,UNIFORM Polo 2XL,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,15,15,UNIFORM Polo 2XL,4202 - Retail Merchandise Sales,FALSE
+379,UNIFORM Polo L,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,15,15,UNIFORM Polo L,4202 - Retail Merchandise Sales,FALSE
+380,UNIFORM Polo M,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,15,15,UNIFORM Polo M,4202 - Retail Merchandise Sales,FALSE
+381,UNIFORM Polo S,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,15,15,UNIFORM Polo S,4202 - Retail Merchandise Sales,FALSE
+378,UNIFORM Polo XL,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,15,15,UNIFORM Polo XL,4202 - Retail Merchandise Sales,FALSE
+387,UNIFORM SS Mens 2XL,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,7,7,UNIFORM SS Mens 2XL,4202 - Retail Merchandise Sales,FALSE
+389,UNIFORM SS Mens L,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,7,7,UNIFORM SS Mens L,4202 - Retail Merchandise Sales,FALSE
+390,UNIFORM SS Mens M,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,7,7,UNIFORM SS Mens M,4202 - Retail Merchandise Sales,FALSE
+391,UNIFORM SS Mens S,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,7,7,UNIFORM SS Mens S,4202 - Retail Merchandise Sales,FALSE
+388,UNIFORM SS Mens XL,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,7,7,UNIFORM SS Mens XL,4202 - Retail Merchandise Sales,FALSE
+382,UNIFORM SS Womens 2XL,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,7,7,UNIFORM SS Womens 2XL,4202 - Retail Merchandise Sales,FALSE
+384,UNIFORM SS Womens L,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,7,7,UNIFORM SS Womens L,4202 - Retail Merchandise Sales,FALSE
+385,UNIFORM SS Womens M,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,7,7,UNIFORM SS Womens M,4202 - Retail Merchandise Sales,FALSE
+386,UNIFORM SS Womens S,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,7,7,UNIFORM SS Womens S,4202 - Retail Merchandise Sales,FALSE
+383,UNIFORM SS Womens XL,Purchase,,TRUE,Retail,Each,Each,RETAIL CATALOG ***MONDAY FOR TUESDAY 11AM CUTOFF***,0,7,7,UNIFORM SS Womens XL,4202 - Retail Merchandise Sales,FALSE
+121,Z - Cake - Chocolate Fudge,Purchase,,TRUE,Pastry,Pack (8 CT),Pack (8 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,36,0,36,Z - Cake - Chocolate Fudge,4108 - Bakeshop Pastry Sales,FALSE
+120,Z - Cake - Limoncello,Purchase,,TRUE,Pastry,Case - 6/CT,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,31.05,31.05,31.05,Z - Cake - Limoncello,4108 - Bakeshop Pastry Sales,FALSE
+331,Z - Cake - Mocha Milk,Purchase,,TRUE,Pastry,Pack (12 CT),Pack (12 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,48,0,48,Z - Cake - Mocha Milk,4108 - Bakeshop Pastry Sales,FALSE
+179,Z - Cake Jars - Mary's Banana Pudding (6),Purchase,,TRUE,Pastry,Pack (6 CT),Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,24,0,24,Z - Cake Jars - Mary's Banana Pudding (6),4108 - Bakeshop Pastry Sales,FALSE
+178,Z - Cake Jars - Vegan Chocolate Raspberry (6),Purchase,,TRUE,Pastry,Pack (6 CT),Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,24,0,24,Z - Cake Jars - Vegan Chocolate Raspberry (6),4108 - Bakeshop Pastry Sales,FALSE
+195,Z - Croissant - Chocolate Croissant (3),Purchase,,TRUE,Pastry,Pack (3 CT),Pack (3 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,9,0,9,Z - Croissant - Chocolate Croissant (3),4108 - Bakeshop Pastry Sales,FALSE
+580,Z - Cupcakes - Seasonal (6),Purchase,,TRUE,Pastry,Pack (6 CT),Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,16,0,16,Z - Cupcakes - Seasonal (6),4100 - Food Sales,FALSE
+122,Z - Eclaire Dulce de Leche,Purchase,,TRUE,Pastry,Pack (6 CT),Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,27.75,0,27.75,Z - Eclaire Dulce de Leche,4108 - Bakeshop Pastry Sales,FALSE
+127,Z - Lemon Meringue Tart,Purchase,,TRUE,Pastry,Pack (6 CT),Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,18.98,0,18.98,Z - Lemon Meringue Tart,4108 - Bakeshop Pastry Sales,FALSE
+334,Z - Pastry - Hazelnut Mousse,Purchase,,TRUE,Pastry,Pack (8 CT),Pack (8 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,36,0,36,Z - Pastry - Hazelnut Mousse,4100 - Food Sales,FALSE
+205,Z - Roasted Tomatoes (12),Purchase,,TRUE,Prepped Food,Pack (12 CT),Pack (12 CT),PREP CATALOG (LF) ***11AM CUTOFF FOR NEXT DAY DELIVERY***,12,0,12,Z - Roasted Tomatoes (12),4106 - Comm Prepped Food Sales,FALSE
+330,Z - Savory Hand Pie - Buffalo Chicken (6),Purchase,,TRUE,Pastry,Each,Case - 6/CT,PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,22.5,0,22.5,Z - Savory Hand Pie - Buffalo Chicken (6),4101 - Pastry Sales,FALSE
+151,Z - Tart - Pear Almond (6),Purchase,,TRUE,Pastry,Pack (6 CT),Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,18,0,18,Z - Tart - Pear Almond (6),4108 - Bakeshop Pastry Sales,FALSE
+337,Z - Twinkie - White Chocolate Dipped (6),Purchase,,TRUE,Pastry,Each,Pack (6 CT),PASTRY CATALOG ***2PM CUTOFF FOR NEXT DAY DELIVERY***,15.75,0,15.75,Z - Twinkie - White Chocolate Dipped (6),4100 - Food Sales,FALSE
